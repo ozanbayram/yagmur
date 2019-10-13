@@ -1,0 +1,9 @@
+{
+  "lat": 38.719850882508716,
+  "lon": 30.540882288941702,
+  "api": {
+    "lang": "tr",
+    "exclude": "hourly,flags",
+    "key": "9bc2350bd5674b17dec1f677a6dbecfa"
+  }
+}
